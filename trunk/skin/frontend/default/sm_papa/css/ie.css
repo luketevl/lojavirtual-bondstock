@@ -1,0 +1,5 @@
+/*--------------------- papa -----------------------*/
+.yt-product-detail .product-info-box .product-img-box.span7:hover,
+.yt-product-detail .product-info-box .product-img-box.span7{
+	z-index:2 !important;
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>smartaddons_searchboxpro</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>A must have extension of Magento</summary>
+    <description>New design, More features, Store Offline </description>
+    <notes>test more than 100 hours</notes>
+    <authors><author><name>SmartAddons</name><user>smartaddons</user><email>marketing@ytcvn.com</email></author></authors>
+    <date>2013-08-17</date>
+    <time>04:07:27</time>
+    <contents><target name="magelocal"><dir name="Sm"><dir name="Searchboxpro"><dir name="Block"><file name="List.php" hash="9e9ba5b890aa1211904b277e092c29e6"/></dir><dir name="Helper"><file name="Data.php" hash="8ca99ca40b9831f46303bd9076bf1a97"/></dir><dir name="Model"><dir name="System"><dir name="Config"><dir name="Source"><file name="ListCategory.php" hash="bd39c8b775dc035dd5261c624338ec33"/></dir></dir></dir></dir><dir name="controllers"><file name="IndexController.php" hash="f4087fe8e14009d272c466a25163014a"/></dir><dir name="etc"><file name="config.xml" hash="27a67356342e45a7131ca2aca449b01e"/><file name="system.xml" hash="487cf16861899b03970e8a4e54b83314"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><dir name="sm"><file name="searchboxpro.xml" hash="46e42ebc2fffa7e86cec53a99e79685e"/></dir></dir><dir name="template"><dir name="sm"><dir name="searchboxpro"><file name="default.phtml" hash="279e654951ab926829f84c543f5fc2f7"/></dir></dir></dir></dir></dir></dir></target><target name="mageskin"><dir name="frontend"><dir name="default"><dir name="default"><dir name="sm"><dir name="searchboxpro"><dir name="css"><file name="searchboxpro.css" hash="3880ec50e00e74effdf4d735f49df411"/></dir><dir name="images"><file name="Thumbs.db" hash="3e5aa282be36af93fb314fe82bb3649f"/><file name="loading_icon.gif" hash="395c0d77abb4d15f7a505c32d3fd40b9"/></dir><dir name="js"><file name="jquery-1.8.2.min.js" hash="cfa9051cc0b05eb519f1e16b2a6645d7"/><file name="jquery-noconflict.js" hash="3179f2255b046d5f2e9a71e365287bef"/></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Sm_Searchboxpro.xml" hash="636ceca8b0445e8f4ac15f3037985ba5"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
