@@ -40,9 +40,9 @@
             </db>
             <default_setup>
                 <connection>
-                    <host><![CDATA[mysqlrds.ceiuxagfbyao.us-west-2.rds.amazonaws.com]]></host>
+                    <host><![CDATA[127.0.0.1]]></host>
                     <username><![CDATA[root]]></username>
-                    <password><![CDATA[segredo157]]></password>
+                    <password><![CDATA[root]]></password>
                     <dbname><![CDATA[bondstock]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>

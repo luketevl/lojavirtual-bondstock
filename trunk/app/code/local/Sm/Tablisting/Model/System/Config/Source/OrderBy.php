@@ -14,15 +14,15 @@ class Sm_Tablisting_Model_System_Config_Source_OrderBy
 		return array(
 // 			array('value' => 'random', 		'label' => Mage::helper('tablisting')->__('Random')),
 			array('value' => 'position',	'label' => Mage::helper('tablisting')->__('Position')),
-			array('value' => 'created_at', 	'label' => Mage::helper('tablisting')->__('New Arrivals')),
+			array('value' => 'created_at', 	'label' => Mage::helper('tablisting')->__('Novidades')),
 			array('value' => 'name', 		'label' => Mage::helper('tablisting')->__('Name')),
 			array('value' => 'price', 		'label' => Mage::helper('tablisting')->__('Price')),
 			array('value' => 'top_rating', 	'label' => Mage::helper('tablisting')->__('Top Rating')),
-			array('value' => 'most_reviewed',	'label' => Mage::helper('tablisting')->__('Popular Products')),
+			array('value' => 'most_reviewed',	'label' => Mage::helper('tablisting')->__('Mais Procurados')),
 			//array('value' => 'most_reviewed',	'label' => Mage::helper('tablisting')->__('Most Reviews')),
 			array('value' => 'most_viewed',	'label' => Mage::helper('tablisting')->__('Most Visited')),
 			//array('value' => 'best_sales',	'label' => Mage::helper('tablisting')->__('Most Selling')),
-			array('value' => 'best_sales',	'label' => Mage::helper('tablisting')->__('Featured Products')),
+			array('value' => 'best_sales',	'label' => Mage::helper('tablisting')->__('Destaques')),
 		);
 	}
 }
