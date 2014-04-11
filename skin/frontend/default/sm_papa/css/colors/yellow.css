@@ -1,0 +1,213 @@
+/* yellow :#ffc117 - (255, 193, 23, 0) */
+.yt-product-detail .ytc_background_theme1 .popup-btn > a:hover,
+#mega-menu .sm_megamenu_content .new-arrivals .new-item:hover .item-bottom p a,
+#yt_left .block-compare .clear-all:hover span,
+.toolbar .toolbar-inner .pagination-wrap .pagination .pages ol li.current a,
+#checkoutSteps .step-title >span.number,
+#yt_wrapper .cart .cart-collaterals h2 i,
+.blog-list .aw-blog-read-more,
+.blog-list .icon-user,
+.blog-list .icon-tag,
+.blog-list .icon-th-list,
+.blog-list .icon-comments,
+.postRight .postTitle:hover,
+#yt_left .block-compare #compare-items .item:hover .product-name a,
+.container-slider .slider .vpo-wrap .vp .item:hover .item-title a,
+.block-yt-layered-nav #yt_sidenav li ul li a:hover,
+.block-yt-layered-nav #yt_sidenav li ul li a.current,
+.block-yt-layered-nav #yt_sidenav li:hover > a,
+.block-yt-layered-nav #yt_sidenav li.selected > a,
+.block-yt-layered-nav #yt_sidenav li.parent a.toggle:hover:before,
+#yt_left .block-yt-layered-nav #yt_sidenav li.selected a.toggle:before,
+.block-yt-layered-nav #yt_sidenav li,
+#yt_left .block-account li,
+#yt_left .block-account li strong,
+#yt_pathway .pathway-inner .go-back input:hover,
+#yt_left #narrow-by-list ol li:hover a,
+.slogan-bottom .slogan-author,
+.slogan-bottom .icon-comments-alt,
+.newsletter .social ul li a,
+.store-chain ul li,
+#yt_main .products-grid .item:hover .item-box-footer .product-name a,
+.yt-tab-listing .respl-items-container .respl-items .respl-item-inner:hover .item-info .item-title a,
+#mega-menu .sm_megamenu_content .mega-banner a:hover,
+#mega-menu .sm_megamenu_content .mega-banner .icon-double-angle-right,
+#mega-menu .sm_megamenu_wrapper_horizontal_menu .sm_megamenu_menu li ul li:hover a,
+#mega-menu .sm_megamenu_wrapper_horizontal_menu .sm_megamenu_menu li ul li,
+/*#mega-menu .sm_megamenu_lv1.parent .sm_megamenu_nodesc .sm_megamenu_title,*/
+#mega-menu .sm_megamenu_lv1:hover .sm_megamenu_nodesc .sm_megamenu_title,
+.yt-product-detail .product-shop-container .add-to-links a:hover,
+.yt-product-detail .ytc_background_theme1 .popup-btn i.icon-plus,
+#yt_spotlight .block-content-col li,
+#yt_footerwrap .footer-content a,
+.yt-tab-listing .respl-tabs-container .respl-tabs > li:hover span,
+/*#yt_header .mini-cartpro.show .block-title:before,*/
+#yt_header .mini-cartpro .block-title:hover:before,
+a:focus,
+a:hover{
+	color:#ffc117;
+}
+.yt-product-detail .ytc_background_theme1 .popup-btn #yt_popup:hover i.icon-plus,
+.cloud-zoom-big {
+	border-color:#ffc117;
+}
+#options #confirmbox #btcancel:hover,
+#btccart:hover,
+.button:hover{
+	color:#ffc117;
+	border-color:#ffc117;
+}
+.yt-product-detail .ytc_background_theme1 .popup-btn #yt_popup:hover i.icon-plus,
+.header-bottom .sambar .sambar-inner .btn-sambar,
+#options #confirmbox #btcancel,
+#btccart,
+.button,
+.yt-tab-listing .respl-items .respl-loadmore .respl-loadmore-btn:hover,
+.blog-list .postWrapper .postDate,
+.block-related .item .item-addcart .btn-cart,
+.newsletter .social ul li:hover,
+#yt_header .jqTransformSelectWrapper ul a:hover, .jqTransformSelectWrapper ul a.selected:hover,
+#yt-tab-listing-container .respl-item-inner .item-inner .item-image .wishlist-compare .item-compare a,
+#yt_main .products-grid .item .product-image .wishlist-compare .compare-listing .link-compare,
+#yt-tab-listing-container .respl-item-inner .item-inner .item-image .wishlist-compare .item-wishlist a,
+#yt_main .products-grid .item .product-image .wishlist-compare .wishlist-listing .btn-wishlist,
+#yt-tab-listing-container .respl-item-inner .item-inner .item-image .button.sm_quickview_handler,
+#yt_main .yt-products-container .item .product-image .button.sm_quickview_handler,
+.new-icon,
+.yt-tab-listing .respl-tabs-container .respl-tabs > li.tab-sel,
+/*#yt_header .mini-cartpro.show .block-title,*/
+#yt_header .mini-cartpro .block-title:hover,
+#slider-home .item .item-content .item-addcart a.btn-cart,
+.yt-tab-listing .respl-items-container .respl-items .respl-item-inner .item-info .item-addcart a,
+.yt-product-detail .yt-product-box .product-shop-container .add-to-cart .button.btn-cart,
+#yt_main .category-products .item .cart-listing .btn-cart{
+	background-color:#ffc117;
+}
+.yt-product-detail .more-views > ul >li:hover,
+.yt-product-detail .more-views > ul >li.selected,
+.yt-product-detail .jCarouselLite > ul > li:hover,
+.yt-product-detail .jCarouselLite > ul > li.selected{    
+	border:1px solid #ffc117;
+}	
+
+.toolbar .toolbar-inner .view-mode strong.listing-grid-icon,
+.toolbar .toolbar-inner .view-mode .listing-grid-icon:hover{
+	background:url(../../images/yellow/listing-icons2.png) no-repeat center 10px;
+}
+.toolbar .toolbar-inner .view-mode strong.listing-icon,
+.toolbar .toolbar-inner .view-mode .listing-icon:hover{
+	background:url(../../images/yellow/listing-icons2.png) no-repeat center -21px;
+}
+
+.yt-product-detail .product-shop-container .add-to-links .wishlist:hover a.link-wishlist{
+	background:url(../../images/yellow/wislist-compare-yellow.png) no-repeat 0 0;
+}
+.yt-product-detail .product-shop-container .add-to-links .compare:hover a.link-compare{
+	background:url(../../images/yellow/wislist-compare-yellow.png) no-repeat 7px -31px;
+}
+#product-options-wrapper .jqTransformSelectWrapper  a.jqTransformSelectOpen {
+	background: url(../../images/yellow/arrow-down.png) no-repeat center center;
+}
+.yt-product-detail .quantity-controls .quantity-plus{	
+	background:url(../../images/yellow/arrow-yellow0.png) no-repeat 0 0;
+}
+.yt-product-detail .quantity-controls .quantity-minus{	
+	background:url(../../images/yellow/arrow-yellow0.png) no-repeat 0 -30px;
+}
+.yt-product-detail .quantity-controls .quantity-plus:hover{	
+	background:url(../../images/yellow/arrow-yellow.png) no-repeat 0 0;
+}
+.yt-product-detail .quantity-controls .quantity-minus:hover{	
+	background:url(../../images/yellow/arrow-yellow.png) no-repeat 0 -30px;
+}
+
+#yt_header .mini-cartpro .block-title .ico-cart{
+	background:url(../../images/yellow/ico-cart.png) no-repeat 0 7px;
+}
+/*#mega-menu .sm_megamenu_lv1.parent .sm_megamenu_icon,*/
+#mega-menu .sm_megamenu_actived .sm_megamenu_icon,
+#mega-menu .sm_megamenu_lv1:hover .sm_megamenu_icon{	
+	background:url(../../images/yellow/ico-li-mega-hover.png) no-repeat right center;
+}
+#mega-menu .sm_megamenu_content .new-arrivals .new-item .item-bottom span.ico-item-bottom{
+	background:url(../../images/yellow/ico-item-plus.png) no-repeat;
+}
+
+.pick-category-content ul li.tshirts a:hover{
+	background:url(../../images/yellow/cat-tshirts.png) no-repeat;
+}
+.pick-category-content ul li.shirts a:hover{
+	background:url(../../images/yellow/cat-shirts.png) no-repeat;
+}
+.pick-category-content ul li.pants a:hover{
+	background:url(../../images/yellow/cat-pants.png) no-repeat;
+}
+.pick-category-content ul li.accessories a:hover{
+	background:url(../../images/yellow/cat-accessories.png) no-repeat 5px 0;
+}
+.pick-category-content ul li.shoes a:hover{
+	background:url(../../images/yellow/cat-shoes.png) no-repeat;
+}
+.need-to-know .know1 a i{
+	background:url(../../images/yellow/shipping.png) no-repeat 0 8px;
+}
+.need-to-know .know2 a i{
+	background:url(../../images/yellow/return.png) no-repeat 0 8px;
+}
+.need-to-know .know3 a i{
+	background:url(../../images/yellow/plane.png) no-repeat 0 8px;
+}
+
+.history .year{
+	background:url(../../images/yellow/history-ico.png) no-repeat;
+}
+.contactus-info .address,
+.contact-us-bottom .address{
+	background:url(../../images/yellow/ico-contact-map.png) no-repeat left center;
+}
+.contactus-info .email,
+.contact-us-bottom .email{
+	background:url(../../images/yellow/ico-mail.png) no-repeat left bottom;
+}
+.contactus-info .phone,
+.contact-us-bottom .phone{
+	background:url(../../images/yellow/ico-phone.png) no-repeat left center;
+}
+
+.products-list .item .item-inner .item-box3 .wishlist-listing:hover a.btn-wishlist{
+	background:url(../../images/yellow/wislist-compare-yellow.png) no-repeat 0 0;
+}
+.products-list .item .item-inner .item-box3 .compare-listing:hover a.link-compare{
+	background:url(../../images/yellow/wislist-compare-yellow.png) no-repeat 6px -31px;
+}
+
+#yt_left #narrow-by-list ol li:hover{
+	background:url(../../images/yellow/shopby-li-hover.png) no-repeat 0 11px;
+}
+#yt_left .currently ol li .btn-remove:hover,
+#yt_left .block-compare #compare-items .item:hover .btn-remove{
+	background:url(../../images/yellow/delete-ico.png) no-repeat;
+}
+/* ffc117 */
+/*--------------------GENERAL-----------------------------*/
+input,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.input-text:hover, textarea:hover, .input-text:focus, textarea:focus {
+	border-color: rgba(255, 193, 23, 0.5); /*opacity 0.5 ffc117*/
+}
+#yt_wrapper #checkout-progress-state > li.active{
+	background-color:#ffc117;
+}
